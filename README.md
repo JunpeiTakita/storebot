@@ -1,0 +1,2 @@
+# storebot
+valorantstore
